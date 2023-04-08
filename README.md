@@ -28,3 +28,7 @@ Bu, kullanıcı metin mesajlarını QR kodlarına dönüştüren ve kullanıcıy
     python telegram_bot.py
 ```
 6. Send a text message to the bot and receive a QR code in response!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/erensunar/qr-generator-telegram-bot/blob/main/LICENSE.md) file for details.
