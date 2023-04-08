@@ -5,7 +5,7 @@ Bu, kullanıcı metin mesajlarını QR kodlarına dönüştüren ve kullanıcıy
 
 ## Example
 
-![GIF showing brief usage of the project](gifs/example.gif)
+![GIF showing brief usage of the project](https://github.com/erensunar/qr-generator-telegram-bot/blob/main/gifs/example.gif)
 
 
 ## Requirements
