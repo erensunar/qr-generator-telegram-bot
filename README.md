@@ -3,6 +3,11 @@
 This is a Telegram bot that converts user text messages to QR codes and sends them back to the user.
 Bu, kullanıcı metin mesajlarını QR kodlarına dönüştüren ve kullanıcıya geri gönderen bir Telegram botudur.
 
+## Example
+
+![GIF showing brief usage of the project](qr-generator-telegram-bot/gifs/example.gif)
+
+
 ## Requirements
 
 - qrcode==7.4.2
